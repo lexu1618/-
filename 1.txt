@@ -1,1 +1,1 @@
-u0_a40    5297  1481  923784 98952 ffffffff b74b4185 S com.example.shineapp
+5297  1481  923784 98952 ffffffff b74b4185 S com.example.shineapp
